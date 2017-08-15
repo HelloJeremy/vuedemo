@@ -1,7 +1,7 @@
 # vuedemo
 
 > A Vue.js project
->我是在看完这篇博文[Vue2+VueRouter2+webpack 构建项目实战](http://blog.csdn.net/fungleo/article/details/53171052)在自己本地写的一个vue.js简单入门项目,这篇博文的博主在文章最后也贴出来了他的github地址,有兴趣的同学可以clone博主的仓库。
+>我是在看完这篇博文[Vue2+VueRouter2+webpack 构建项目实战](http://blog.csdn.net/fungleo/article/details/53171052)在自己本地写的一个vue.js简单入门项目,这篇博文的博主在文章最后也贴出来了他的github地址,有兴趣的同学可以clone该博主的仓库。
 
 ## Build Setup
 
